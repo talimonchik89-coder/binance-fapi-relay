@@ -2,6 +2,26 @@
   {
     "symbol": "SNDKUSDT",
     "direction_hint": "лонг",
+    "volume24h": 5637662285.7703,
+    "change24h": "-11.170",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 1264.5,
+    "entryLong": 1290,
+    "entryShort": 1242.22,
+    "stopLong": 1251.3,
+    "targetLong": 1986.6000000000001,
+    "stopShort": 1268.78,
+    "targetShort": 764.140000000001,
+    "riskPctLong": 3,
+    "riskPctShort": 2.138107581587798,
+    "lowHistory": false,
+    "timestamp": "2026-08-06T00:10:03.483Z"
+  },
+  {
+    "symbol": "SNDKUSDT",
+    "direction_hint": "лонг",
     "volume24h": 5498181888.4505,
     "change24h": "-10.123",
     "triggers": [
@@ -588,25 +608,5 @@
     "riskPctShort": 2.6464600769056954,
     "lowHistory": false,
     "timestamp": "2026-08-05T21:45:22.620Z"
-  },
-  {
-    "symbol": "SOXLUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 2147048645.5111,
-    "change24h": "-2.886",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 131.25,
-    "entryLong": 133.18,
-    "entryShort": 129.37,
-    "stopLong": 130.83,
-    "targetLong": 175.4799999999999,
-    "stopShort": 132.42,
-    "targetShort": 74.47000000000033,
-    "riskPctLong": 1.7645292085898738,
-    "riskPctShort": 2.357579036870977,
-    "lowHistory": false,
-    "timestamp": "2026-08-05T21:40:05.639Z"
   }
 ]
