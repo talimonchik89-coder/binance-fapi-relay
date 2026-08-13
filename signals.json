@@ -2,6 +2,49 @@
   {
     "symbol": "NBISUSDT",
     "direction_hint": "шорт",
+    "volume24h": 254920085.4295,
+    "change24h": "0.854",
+    "triggers": [
+      "сжатие волатильности",
+      "двойная вершина",
+      "треугольник"
+    ],
+    "currentPrice": 256.33,
+    "entryLong": 257.23,
+    "entryShort": 251.33,
+    "stopLong": 255.73,
+    "targetLong": 284.23000000000053,
+    "stopShort": 256.59,
+    "targetShort": 156.6500000000007,
+    "riskPctLong": 0.5831357151187764,
+    "riskPctShort": 2.092865953129337,
+    "lowHistory": false,
+    "timestamp": "2026-08-13T21:26:03.893Z"
+  },
+  {
+    "symbol": "COTIUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 180363810.8994501,
+    "change24h": "-8.973",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.011189,
+    "entryLong": 0.011312,
+    "entryShort": 0.011131,
+    "stopLong": 0.011132,
+    "targetLong": 0.014551999999999992,
+    "stopShort": 0.011271,
+    "targetShort": 0.00861100000000001,
+    "riskPctLong": 1.5912305516265879,
+    "riskPctShort": 1.2577486299523808,
+    "lowHistory": false,
+    "timestamp": "2026-08-13T21:26:06.924Z"
+  },
+  {
+    "symbol": "NBISUSDT",
+    "direction_hint": "шорт",
     "volume24h": 255066247.2051,
     "change24h": "0.964",
     "triggers": [
@@ -581,46 +624,5 @@
     "riskPctShort": 1.278127812781276,
     "lowHistory": false,
     "timestamp": "2026-08-13T20:46:07.667Z"
-  },
-  {
-    "symbol": "SOXLUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 1160547002.4264,
-    "change24h": "2.684",
-    "triggers": [
-      "двойная вершина",
-      "треугольник"
-    ],
-    "currentPrice": 146.17,
-    "entryLong": 150.17,
-    "entryShort": 143.86,
-    "stopLong": 145.6649,
-    "targetLong": 231.2618,
-    "stopShort": 146.27,
-    "targetShort": 100.48000000000008,
-    "riskPctLong": 3,
-    "riskPctShort": 1.6752398164882498,
-    "lowHistory": false,
-    "timestamp": "2026-08-13T20:40:58.622Z"
-  },
-  {
-    "symbol": "NBISUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 260555060.4354,
-    "change24h": "0.270",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 256.33,
-    "entryLong": 257.23,
-    "entryShort": 251.31,
-    "stopLong": 255.96,
-    "targetLong": 280.0900000000002,
-    "stopShort": 256.86,
-    "targetShort": 151.4099999999998,
-    "riskPctLong": 0.4937215721338919,
-    "riskPctShort": 2.2084278381282125,
-    "lowHistory": false,
-    "timestamp": "2026-08-13T20:41:04.688Z"
   }
 ]
