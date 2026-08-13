@@ -1,5 +1,48 @@
 [
   {
+    "symbol": "NBISUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 255066247.2051,
+    "change24h": "0.964",
+    "triggers": [
+      "сжатие волатильности",
+      "двойная вершина",
+      "треугольник"
+    ],
+    "currentPrice": 256.53,
+    "entryLong": 257.23,
+    "entryShort": 251.33,
+    "stopLong": 255.73,
+    "targetLong": 284.23000000000053,
+    "stopShort": 256.59,
+    "targetShort": 156.6500000000007,
+    "riskPctLong": 0.5831357151187764,
+    "riskPctShort": 2.092865953129337,
+    "lowHistory": false,
+    "timestamp": "2026-08-13T21:21:05.181Z"
+  },
+  {
+    "symbol": "COTIUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 180838883.9574221,
+    "change24h": "-7.779",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.011192,
+    "entryLong": 0.011312,
+    "entryShort": 0.01111,
+    "stopLong": 0.011146,
+    "targetLong": 0.01429999999999999,
+    "stopShort": 0.011271,
+    "targetShort": 0.008212000000000006,
+    "riskPctLong": 1.467468175388963,
+    "riskPctShort": 1.4491449144914463,
+    "lowHistory": false,
+    "timestamp": "2026-08-13T21:21:10.215Z"
+  },
+  {
     "symbol": "KORUUSDT",
     "direction_hint": "шорт",
     "volume24h": 886024075.6786,
@@ -579,47 +622,5 @@
     "riskPctShort": 2.2084278381282125,
     "lowHistory": false,
     "timestamp": "2026-08-13T20:41:04.688Z"
-  },
-  {
-    "symbol": "COTIUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 184608963.7295836,
-    "change24h": "-10.905",
-    "triggers": [
-      "сжатие волатильности",
-      "двойное дно"
-    ],
-    "currentPrice": 0.011209,
-    "entryLong": 0.011335,
-    "entryShort": 0.01111,
-    "stopLong": 0.011138,
-    "targetLong": 0.014880999999999986,
-    "stopShort": 0.011252,
-    "targetShort": 0.008554000000000004,
-    "riskPctLong": 1.7379797088663367,
-    "riskPctShort": 1.278127812781276,
-    "lowHistory": false,
-    "timestamp": "2026-08-13T20:41:09.364Z"
-  },
-  {
-    "symbol": "SOXLUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 1158005477.146,
-    "change24h": "2.446",
-    "triggers": [
-      "двойная вершина",
-      "треугольник"
-    ],
-    "currentPrice": 145.78,
-    "entryLong": 150.96,
-    "entryShort": 143.86,
-    "stopLong": 146.4312,
-    "targetLong": 232.47840000000002,
-    "stopShort": 145.98,
-    "targetShort": 105.70000000000044,
-    "riskPctLong": 3,
-    "riskPctShort": 1.473654942305002,
-    "lowHistory": false,
-    "timestamp": "2026-08-13T20:36:00.565Z"
   }
 ]
