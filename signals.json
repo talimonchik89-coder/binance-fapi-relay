@@ -1,5 +1,46 @@
 [
   {
+    "symbol": "NBISUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 259533847.9805,
+    "change24h": "0.349",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 256.16,
+    "entryLong": 257.23,
+    "entryShort": 251.31,
+    "stopLong": 255.92,
+    "targetLong": 280.81000000000057,
+    "stopShort": 256.86,
+    "targetShort": 151.4099999999998,
+    "riskPctLong": 0.5092718578704003,
+    "riskPctShort": 2.2084278381282125,
+    "lowHistory": false,
+    "timestamp": "2026-08-13T20:46:04.639Z"
+  },
+  {
+    "symbol": "COTIUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 184235027.5001356,
+    "change24h": "-10.789",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.011229,
+    "entryLong": 0.011335,
+    "entryShort": 0.01111,
+    "stopLong": 0.011156,
+    "targetLong": 0.014557000000000004,
+    "stopShort": 0.011252,
+    "targetShort": 0.008554000000000004,
+    "riskPctLong": 1.5791795324217057,
+    "riskPctShort": 1.278127812781276,
+    "lowHistory": false,
+    "timestamp": "2026-08-13T20:46:07.667Z"
+  },
+  {
     "symbol": "SOXLUSDT",
     "direction_hint": "шорт",
     "volume24h": 1160547002.4264,
@@ -572,45 +613,5 @@
     "riskPctShort": 1.2820512820512802,
     "lowHistory": false,
     "timestamp": "2026-08-13T19:56:01.847Z"
-  },
-  {
-    "symbol": "CBRSUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 151360904.6361,
-    "change24h": "-12.298",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 230.71,
-    "entryLong": 233.23,
-    "entryShort": 225.75,
-    "stopLong": 226.23309999999998,
-    "targetLong": 359.1742,
-    "stopShort": 232.5225,
-    "targetShort": 103.845,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-13T19:56:11.064Z"
-  },
-  {
-    "symbol": "SOXLUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 1134046213.0488,
-    "change24h": "1.219",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 145.33,
-    "entryLong": 151.68,
-    "entryShort": 145.19,
-    "stopLong": 147.1296,
-    "targetLong": 233.58720000000002,
-    "stopShort": 147.48,
-    "targetShort": 103.97000000000014,
-    "riskPctLong": 3,
-    "riskPctShort": 1.5772436118189903,
-    "lowHistory": false,
-    "timestamp": "2026-08-13T19:50:57.716Z"
   }
 ]
