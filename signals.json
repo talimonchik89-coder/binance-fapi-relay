@@ -1,5 +1,108 @@
 [
   {
+    "symbol": "AKEUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 783765803.9430642,
+    "change24h": "95.518",
+    "triggers": [
+      "двойное дно",
+      "перевёрнутая голова и плечи"
+    ],
+    "currentPrice": 0.0079691,
+    "entryLong": 0.00808,
+    "entryShort": 0.0072286,
+    "stopLong": 0.0078376,
+    "targetLong": 0.012443200000000001,
+    "stopShort": 0.007445458,
+    "targetShort": 0.0033251559999999997,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T05:51:04.137Z"
+  },
+  {
+    "symbol": "APRUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 443459460.20681,
+    "change24h": "1.398",
+    "triggers": [
+      "двойная вершина",
+      "треугольник"
+    ],
+    "currentPrice": 0.4568,
+    "entryLong": 0.5382,
+    "entryShort": 0.4186,
+    "stopLong": 0.522054,
+    "targetLong": 0.828828,
+    "stopShort": 0.43115800000000004,
+    "targetShort": 0.192556,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T05:51:05.109Z"
+  },
+  {
+    "symbol": "EDENUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 246197669.21823,
+    "change24h": "33.129",
+    "triggers": [
+      "двойная вершина",
+      "голова и плечи"
+    ],
+    "currentPrice": 0.06285,
+    "entryLong": 0.08258,
+    "entryShort": 0.06077,
+    "stopLong": 0.0801026,
+    "targetLong": 0.12717320000000001,
+    "stopShort": 0.0625931,
+    "targetShort": 0.027954199999999995,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T05:51:08.145Z"
+  },
+  {
+    "symbol": "CYSUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 203178181.0403,
+    "change24h": "-28.933",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 1.0933,
+    "entryLong": 1.1983,
+    "entryShort": 1.0191,
+    "stopLong": 1.162351,
+    "targetLong": 1.8453819999999999,
+    "stopShort": 1.0496729999999999,
+    "targetShort": 0.4687859999999999,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T05:51:09.152Z"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 129073937.289254,
+    "change24h": "38.848",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 0.01519,
+    "entryLong": 0.015676,
+    "entryShort": 0.013588,
+    "stopLong": 0.015205719999999999,
+    "targetLong": 0.02414104,
+    "stopShort": 0.01399564,
+    "targetShort": 0.006250479999999999,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T05:51:12.152Z"
+  },
+  {
     "symbol": "SOXLUSDT",
     "direction_hint": "лонг",
     "volume24h": 1181719029.1873,
@@ -513,107 +616,5 @@
     "riskPctShort": 0.6958942240779501,
     "lowHistory": false,
     "timestamp": "2026-08-14T05:31:06.899Z"
-  },
-  {
-    "symbol": "APRUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 445349145.85171,
-    "change24h": "0.647",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 0.4511,
-    "entryLong": 0.56,
-    "entryShort": 0.4186,
-    "stopLong": 0.5432,
-    "targetLong": 0.8624,
-    "stopShort": 0.43115800000000004,
-    "targetShort": 0.192556,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T05:31:08.898Z"
-  },
-  {
-    "symbol": "EDENUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 238754477.85,
-    "change24h": "40.856",
-    "triggers": [
-      "накопление OI",
-      "двойная вершина",
-      "голова и плечи"
-    ],
-    "currentPrice": 0.06616,
-    "entryLong": 0.08258,
-    "entryShort": 0.06236,
-    "stopLong": 0.0801026,
-    "targetLong": 0.12717320000000001,
-    "stopShort": 0.0642308,
-    "targetShort": 0.0286856,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T05:31:11.915Z"
-  },
-  {
-    "symbol": "CYSUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 201262445.2518,
-    "change24h": "-32.000",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 1.0844,
-    "entryLong": 1.1381,
-    "entryShort": 1.0191,
-    "stopLong": 1.1039569999999999,
-    "targetLong": 1.7526739999999998,
-    "stopShort": 1.0496729999999999,
-    "targetShort": 0.4687859999999999,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T05:31:12.936Z"
-  },
-  {
-    "symbol": "AVAAIUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 125805412.56441,
-    "change24h": "34.720",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 0.014504,
-    "entryLong": 0.01455,
-    "entryShort": 0.013207,
-    "stopLong": 0.0141135,
-    "targetLong": 0.022407,
-    "stopShort": 0.013603210000000001,
-    "targetShort": 0.006075219999999999,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T05:31:15.952Z"
-  },
-  {
-    "symbol": "SOXLUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 1184508579.0985,
-    "change24h": "-2.153",
-    "triggers": [
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 143.14,
-    "entryLong": 144.17,
-    "entryShort": 142.73,
-    "stopLong": 142.73,
-    "targetLong": 170.08999999999997,
-    "stopShort": 143.34,
-    "targetShort": 131.74999999999974,
-    "riskPctLong": 0.9988208365124491,
-    "riskPctShort": 0.4273803685279995,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T05:25:59.333Z"
   }
 ]
