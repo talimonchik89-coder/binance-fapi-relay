@@ -2,6 +2,47 @@
   {
     "symbol": "AKEUSDT",
     "direction_hint": "лонг",
+    "volume24h": 826274327.7923363,
+    "change24h": "95.164",
+    "triggers": [
+      "двойное дно",
+      "перевёрнутая голова и плечи"
+    ],
+    "currentPrice": 0.0078938,
+    "entryLong": 0.0083333,
+    "entryShort": 0.0075946,
+    "stopLong": 0.008083301,
+    "targetLong": 0.012833282,
+    "stopShort": 0.007822438000000001,
+    "targetShort": 0.003493516,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T07:16:02.767Z"
+  },
+  {
+    "symbol": "CYSUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 198774122.3293,
+    "change24h": "-25.790",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 1.1291,
+    "entryLong": 1.1678,
+    "entryShort": 1.0105,
+    "stopLong": 1.132766,
+    "targetLong": 1.798412,
+    "stopShort": 1.040815,
+    "targetShort": 0.46482999999999997,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-14T07:16:08.236Z"
+  },
+  {
+    "symbol": "AKEUSDT",
+    "direction_hint": "лонг",
     "volume24h": 823548272.0817631,
     "change24h": "90.465",
     "triggers": [
@@ -576,46 +617,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-14T06:26:07.882Z"
-  },
-  {
-    "symbol": "AVAAIUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 134302919.387767,
-    "change24h": "42.789",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 0.015544,
-    "entryLong": 0.016333,
-    "entryShort": 0.013955,
-    "stopLong": 0.01584301,
-    "targetLong": 0.02515282,
-    "stopShort": 0.01437365,
-    "targetShort": 0.006419299999999999,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T06:26:09.884Z"
-  },
-  {
-    "symbol": "AKEUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 800957184.4110597,
-    "change24h": "102.575",
-    "triggers": [
-      "двойное дно",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 0.008182,
-    "entryLong": 0.0083333,
-    "entryShort": 0.0072286,
-    "stopLong": 0.008083301,
-    "targetLong": 0.012833282,
-    "stopShort": 0.007445458,
-    "targetShort": 0.0033251559999999997,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-14T06:21:21.582Z"
   }
 ]
