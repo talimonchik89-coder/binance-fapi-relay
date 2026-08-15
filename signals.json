@@ -2,6 +2,27 @@
   {
     "symbol": "GRVTUSDT",
     "direction_hint": "шорт",
+    "volume24h": 60710475.2748,
+    "change24h": "0.200",
+    "triggers": [
+      "двойная вершина",
+      "треугольник"
+    ],
+    "currentPrice": 0.2999,
+    "entryLong": 0.3065,
+    "entryShort": 0.2978,
+    "stopLong": 0.2996,
+    "targetLong": 0.4307000000000003,
+    "stopShort": 0.3016,
+    "targetShort": 0.22940000000000055,
+    "riskPctLong": 2.251223491027738,
+    "riskPctShort": 1.2760241773001915,
+    "lowHistory": false,
+    "timestamp": "2026-08-15T19:16:12.532Z"
+  },
+  {
+    "symbol": "GRVTUSDT",
+    "direction_hint": "шорт",
     "volume24h": 60839417.8832,
     "change24h": "1.314",
     "triggers": [
@@ -583,26 +604,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-15T17:21:05.587Z"
-  },
-  {
-    "symbol": "BTWUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 71999578.36111,
-    "change24h": "-6.675",
-    "triggers": [
-      "двойное дно",
-      "треугольник"
-    ],
-    "currentPrice": 0.27836,
-    "entryLong": 0.29125,
-    "entryShort": 0.27611,
-    "stopLong": 0.2825125,
-    "targetLong": 0.448525,
-    "stopShort": 0.28328,
-    "targetShort": 0.14705000000000082,
-    "riskPctLong": 3,
-    "riskPctShort": 2.5967911339683294,
-    "lowHistory": false,
-    "timestamp": "2026-08-15T17:21:11.760Z"
   }
 ]
