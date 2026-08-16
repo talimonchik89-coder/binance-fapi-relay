@@ -2,6 +2,27 @@
   {
     "symbol": "BEATUSDT",
     "direction_hint": "шорт",
+    "volume24h": 124315231.9167,
+    "change24h": "-42.702",
+    "triggers": [
+      "двойная вершина",
+      "голова и плечи"
+    ],
+    "currentPrice": 0.358,
+    "entryLong": 0.397,
+    "entryShort": 0.329,
+    "stopLong": 0.38509,
+    "targetLong": 0.61138,
+    "stopShort": 0.33887,
+    "targetShort": 0.15134,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-16T03:35:15.563Z"
+  },
+  {
+    "symbol": "BEATUSDT",
+    "direction_hint": "шорт",
     "volume24h": 124002530.849,
     "change24h": "-42.314",
     "triggers": [
@@ -591,25 +612,5 @@
     "riskPctShort": 1.6278046634403818,
     "lowHistory": false,
     "timestamp": "2026-08-16T02:45:16.635Z"
-  },
-  {
-    "symbol": "AVAXUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 105659946.261,
-    "change24h": "-3.700",
-    "triggers": [
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 6.35,
-    "entryLong": 6.358,
-    "entryShort": 6.31,
-    "stopLong": 6.335,
-    "targetLong": 6.771999999999993,
-    "stopShort": 6.357999999999999,
-    "targetShort": 5.445999999999999,
-    "riskPctLong": 0.3617489776659278,
-    "riskPctShort": 0.7606973058637091,
-    "lowHistory": false,
-    "timestamp": "2026-08-16T02:45:17.215Z"
   }
 ]
