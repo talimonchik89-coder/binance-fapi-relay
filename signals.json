@@ -2,6 +2,47 @@
   {
     "symbol": "APRUSDT",
     "direction_hint": "лонг",
+    "volume24h": 303904360.59116,
+    "change24h": "-71.277",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 0.1518,
+    "entryLong": 0.1643,
+    "entryShort": 0.1432,
+    "stopLong": 0.15937099999999998,
+    "targetLong": 0.253022,
+    "stopShort": 0.147496,
+    "targetShort": 0.06587199999999999,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-16T01:05:13.015Z"
+  },
+  {
+    "symbol": "VELVETUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 152057199.3777,
+    "change24h": "-16.353",
+    "triggers": [
+      "двойное дно",
+      "треугольник"
+    ],
+    "currentPrice": 0.8476,
+    "entryLong": 0.8619,
+    "entryShort": 0.8233,
+    "stopLong": 0.843,
+    "targetLong": 1.2021000000000004,
+    "stopShort": 0.8479990000000001,
+    "targetShort": 0.378718,
+    "riskPctLong": 2.1928297946397524,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-16T01:05:15.571Z"
+  },
+  {
+    "symbol": "APRUSDT",
+    "direction_hint": "лонг",
     "volume24h": 303567580.54776,
     "change24h": "-71.770",
     "triggers": [
@@ -594,47 +635,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-15T23:10:57.620Z"
-  },
-  {
-    "symbol": "APRUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 299738272.04388,
-    "change24h": "-69.253",
-    "triggers": [
-      "треугольник",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 0.1613,
-    "entryLong": 0.1727,
-    "entryShort": 0.1519,
-    "stopLong": 0.167519,
-    "targetLong": 0.26595799999999997,
-    "stopShort": 0.156457,
-    "targetShort": 0.06987399999999999,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-15T23:10:59.622Z"
-  },
-  {
-    "symbol": "VELVETUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 154601658.9041,
-    "change24h": "-17.535",
-    "triggers": [
-      "двойная вершина",
-      "треугольник"
-    ],
-    "currentPrice": 0.8338,
-    "entryLong": 0.8674,
-    "entryShort": 0.8152,
-    "stopLong": 0.841378,
-    "targetLong": 1.335796,
-    "stopShort": 0.8389000000000001,
-    "targetShort": 0.388600000000001,
-    "riskPctLong": 3,
-    "riskPctShort": 2.907262021589787,
-    "lowHistory": false,
-    "timestamp": "2026-08-15T23:11:03.813Z"
   }
 ]
