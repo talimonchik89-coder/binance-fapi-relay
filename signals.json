@@ -2,6 +2,26 @@
   {
     "symbol": "HEMIUSDT",
     "direction_hint": "шорт",
+    "volume24h": 441483545.669544,
+    "change24h": "-10.391",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 0.006373,
+    "entryLong": 0.00651,
+    "entryShort": 0.006159,
+    "stopLong": 0.006324,
+    "targetLong": 0.009858000000000009,
+    "stopShort": 0.00634377,
+    "targetShort": 0.00283314,
+    "riskPctLong": 2.8571428571428634,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-16T21:25:10.860Z"
+  },
+  {
+    "symbol": "HEMIUSDT",
+    "direction_hint": "шорт",
     "volume24h": 441968756.604904,
     "change24h": "-9.634",
     "triggers": [
@@ -596,25 +616,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-16T20:45:18.295Z"
-  },
-  {
-    "symbol": "SPORTFUNUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 75586521.86144,
-    "change24h": "-20.225",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 0.02339,
-    "entryLong": 0.0235,
-    "entryShort": 0.02301,
-    "stopLong": 0.0232,
-    "targetLong": 0.02890000000000003,
-    "stopShort": 0.023499999999999997,
-    "targetShort": 0.014189999999999984,
-    "riskPctLong": 1.276595744680858,
-    "riskPctShort": 2.12950890916993,
-    "lowHistory": false,
-    "timestamp": "2026-08-16T20:45:18.882Z"
   }
 ]
