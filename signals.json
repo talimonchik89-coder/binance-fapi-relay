@@ -1,5 +1,25 @@
 [
   {
+    "symbol": "PORTALUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 364946145.222603,
+    "change24h": "32.435",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 0.01572,
+    "entryLong": 0.01673,
+    "entryShort": 0.01546,
+    "stopLong": 0.0162281,
+    "targetLong": 0.025764199999999998,
+    "stopShort": 0.015923800000000002,
+    "targetShort": 0.007111599999999999,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-17T09:45:11.339Z"
+  },
+  {
     "symbol": "CYSUSDT",
     "direction_hint": "шорт",
     "volume24h": 254452609.4544,
@@ -592,25 +612,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-17T01:45:14.259Z"
-  },
-  {
-    "symbol": "CHIPUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 109573237.18619,
-    "change24h": "0.967",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 0.02818,
-    "entryLong": 0.02865,
-    "entryShort": 0.02731,
-    "stopLong": 0.0277905,
-    "targetLong": 0.044121,
-    "stopShort": 0.028129300000000003,
-    "targetShort": 0.0125626,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-17T01:45:17.257Z"
   }
 ]
