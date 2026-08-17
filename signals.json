@@ -2,6 +2,46 @@
   {
     "symbol": "ACEUSDT",
     "direction_hint": "лонг",
+    "volume24h": 419685733.995244,
+    "change24h": "19.085",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 0.15936,
+    "entryLong": 0.17436,
+    "entryShort": 0.15739,
+    "stopLong": 0.16912919999999998,
+    "targetLong": 0.2685144,
+    "stopShort": 0.1611,
+    "targetShort": 0.09061000000000016,
+    "riskPctLong": 3,
+    "riskPctShort": 2.3572018552639884,
+    "lowHistory": false,
+    "timestamp": "2026-08-17T21:15:14.179Z"
+  },
+  {
+    "symbol": "PORTALUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 252731941.137703,
+    "change24h": "-2.814",
+    "triggers": [
+      "флаг"
+    ],
+    "currentPrice": 0.01623,
+    "entryLong": 0.01648,
+    "entryShort": 0.01544,
+    "stopLong": 0.016,
+    "targetLong": 0.025120000000000024,
+    "stopShort": 0.015903200000000003,
+    "targetShort": 0.0071024,
+    "riskPctLong": 2.9126213592233086,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-17T21:15:15.405Z"
+  },
+  {
+    "symbol": "ACEUSDT",
+    "direction_hint": "лонг",
     "volume24h": 410950100.789264,
     "change24h": "22.972",
     "triggers": [
@@ -575,47 +615,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-17T18:10:20.966Z"
-  },
-  {
-    "symbol": "SNDKUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 4997669753.7811,
-    "change24h": "7.465",
-    "triggers": [
-      "сжатие волатильности",
-      "голова и плечи"
-    ],
-    "currentPrice": 1789.17,
-    "entryLong": 1812.8,
-    "entryShort": 1781.03,
-    "stopLong": 1781.03,
-    "targetLong": 2384.6599999999994,
-    "stopShort": 1798.3899999999999,
-    "targetShort": 1468.5499999999977,
-    "riskPctLong": 1.7525375110326555,
-    "riskPctShort": 0.9747168773125734,
-    "lowHistory": false,
-    "timestamp": "2026-08-17T18:05:11.148Z"
-  },
-  {
-    "symbol": "SNDKUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 4974409300.8285,
-    "change24h": "7.589",
-    "triggers": [
-      "сжатие волатильности",
-      "голова и плечи"
-    ],
-    "currentPrice": 1790.56,
-    "entryLong": 1812.8,
-    "entryShort": 1783.87,
-    "stopLong": 1789.62,
-    "targetLong": 2230.0400000000013,
-    "stopShort": 1798.39,
-    "targetShort": 1522.5099999999961,
-    "riskPctLong": 1.2786849073256876,
-    "riskPctShort": 0.8139606585681809,
-    "lowHistory": false,
-    "timestamp": "2026-08-17T18:00:11.548Z"
   }
 ]
