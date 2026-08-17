@@ -2,6 +2,46 @@
   {
     "symbol": "SNXXUSDT",
     "direction_hint": "шорт",
+    "volume24h": 464318833.5611,
+    "change24h": "5.589",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 17.38,
+    "entryLong": 17.63,
+    "entryShort": 17.08,
+    "stopLong": 17.1011,
+    "targetLong": 27.150199999999998,
+    "stopShort": 17.592399999999998,
+    "targetShort": 7.856799999999999,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-17T13:30:11.077Z"
+  },
+  {
+    "symbol": "PORTALUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 355415381.182998,
+    "change24h": "14.117",
+    "triggers": [
+      "двойное дно"
+    ],
+    "currentPrice": 0.01738,
+    "entryLong": 0.01821,
+    "entryShort": 0.01642,
+    "stopLong": 0.0176637,
+    "targetLong": 0.028043400000000003,
+    "stopShort": 0.0169126,
+    "targetShort": 0.0075531999999999995,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-17T13:30:11.704Z"
+  },
+  {
+    "symbol": "SNXXUSDT",
+    "direction_hint": "шорт",
     "volume24h": 414732081.3944,
     "change24h": "5.721",
     "triggers": [
@@ -566,47 +606,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-17T10:30:20.021Z"
-  },
-  {
-    "symbol": "VELVETUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 79251115.5036,
-    "change24h": "-19.697",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 0.815,
-    "entryLong": 0.8822,
-    "entryShort": 0.809,
-    "stopLong": 0.855734,
-    "targetLong": 1.358588,
-    "stopShort": 0.8332700000000001,
-    "targetShort": 0.37213999999999997,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-17T10:30:21.081Z"
-  },
-  {
-    "symbol": "PORTALUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 368304708.763243,
-    "change24h": "32.161",
-    "triggers": [
-      "сжатие волатильности",
-      "двойное дно",
-      "треугольник"
-    ],
-    "currentPrice": 0.01578,
-    "entryLong": 0.01673,
-    "entryShort": 0.01546,
-    "stopLong": 0.0162281,
-    "targetLong": 0.025764199999999998,
-    "stopShort": 0.015923800000000002,
-    "targetShort": 0.007111599999999999,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-17T10:25:11.459Z"
   }
 ]
