@@ -2,6 +2,46 @@
   {
     "symbol": "TRUMPUSDT",
     "direction_hint": "шорт",
+    "volume24h": 386600676.43455,
+    "change24h": "14.820",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 1.658,
+    "entryLong": 1.713,
+    "entryShort": 1.627,
+    "stopLong": 1.66161,
+    "targetLong": 2.63802,
+    "stopShort": 1.67581,
+    "targetShort": 0.74842,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T18:20:53.982Z"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 286755247.6854,
+    "change24h": "10.561",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 0.1989,
+    "entryLong": 0.2035,
+    "entryShort": 0.1974,
+    "stopLong": 0.1974,
+    "targetLong": 0.3132999999999999,
+    "stopShort": 0.2025,
+    "targetShort": 0.10559999999999961,
+    "riskPctLong": 2.997542997542995,
+    "riskPctShort": 2.5835866261398284,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T18:21:00.793Z"
+  },
+  {
+    "symbol": "TRUMPUSDT",
+    "direction_hint": "шорт",
     "volume24h": 383686188.06867,
     "change24h": "14.958",
     "triggers": [
@@ -570,45 +610,5 @@
     "riskPctShort": 1.8662952646239617,
     "lowHistory": false,
     "timestamp": "2026-08-20T17:10:56.172Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 24129678340.02,
-    "change24h": "12.223",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 2337.01,
-    "entryLong": 2359.68,
-    "entryShort": 2297.3,
-    "stopLong": 2336,
-    "targetLong": 2785.919999999997,
-    "stopShort": 2348.59,
-    "targetShort": 1374.080000000001,
-    "riskPctLong": 1.0035259018171887,
-    "riskPctShort": 2.232620902798936,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T17:05:41.086Z"
-  },
-  {
-    "symbol": "HYPEUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 2538112541.94952,
-    "change24h": "20.415",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 74.272,
-    "entryLong": 74.3,
-    "entryShort": 72.654,
-    "stopLong": 73.607,
-    "targetLong": 86.77399999999996,
-    "stopShort": 74.3,
-    "targetShort": 43.025999999999975,
-    "riskPctLong": 0.9327052489905759,
-    "riskPctShort": 2.2655325240179494,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T17:05:42.460Z"
   }
 ]
