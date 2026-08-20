@@ -2,6 +2,48 @@
   {
     "symbol": "SKHYNIXUSDT",
     "direction_hint": "шорт",
+    "volume24h": 2443272743.3939,
+    "change24h": "4.734",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 1205.2,
+    "entryLong": 1223.05,
+    "entryShort": 1173.88,
+    "stopLong": 1187.15,
+    "targetLong": 1869.2499999999975,
+    "stopShort": 1209.0964000000001,
+    "targetShort": 539.9848000000001,
+    "riskPctLong": 2.9352847389722303,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T14:00:45.505Z"
+  },
+  {
+    "symbol": "BTWUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 805590157.05513,
+    "change24h": "-44.250",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно",
+      "треугольник"
+    ],
+    "currentPrice": 0.37696,
+    "entryLong": 0.39264,
+    "entryShort": 0.36548,
+    "stopLong": 0.3808608,
+    "targetLong": 0.6046656,
+    "stopShort": 0.3764444,
+    "targetShort": 0.1681208,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T14:00:52.320Z"
+  },
+  {
+    "symbol": "SKHYNIXUSDT",
+    "direction_hint": "шорт",
     "volume24h": 2448682993.4195,
     "change24h": "5.314",
     "triggers": [
@@ -565,46 +607,5 @@
     "riskPctShort": 2.472952086553325,
     "lowHistory": false,
     "timestamp": "2026-08-20T12:10:49.737Z"
-  },
-  {
-    "symbol": "SNXXUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 1237261136.6332,
-    "change24h": "-9.120",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 14.35,
-    "entryLong": 15.02,
-    "entryShort": 14.22,
-    "stopLong": 14.5694,
-    "targetLong": 23.1308,
-    "stopShort": 14.46,
-    "targetShort": 9.899999999999997,
-    "riskPctLong": 3,
-    "riskPctShort": 1.6877637130801704,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T12:10:50.918Z"
-  },
-  {
-    "symbol": "BTWUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 874018774.06621,
-    "change24h": "-39.510",
-    "triggers": [
-      "двойное дно",
-      "треугольник"
-    ],
-    "currentPrice": 0.38133,
-    "entryLong": 0.41063,
-    "entryShort": 0.36605,
-    "stopLong": 0.3983111,
-    "targetLong": 0.6323702,
-    "stopShort": 0.3770315,
-    "targetShort": 0.16838299999999998,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T12:10:52.772Z"
   }
 ]
