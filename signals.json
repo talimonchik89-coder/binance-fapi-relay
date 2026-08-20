@@ -2,6 +2,47 @@
   {
     "symbol": "BTWUSDT",
     "direction_hint": "шорт",
+    "volume24h": 1114196534.76147,
+    "change24h": "-50.569",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 0.30326,
+    "entryLong": 0.40286,
+    "entryShort": 0.30278,
+    "stopLong": 0.39077419999999996,
+    "targetLong": 0.6204044,
+    "stopShort": 0.3118634,
+    "targetShort": 0.13927879999999998,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T07:10:49.662Z"
+  },
+  {
+    "symbol": "TRUMPUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 296437160.51137,
+    "change24h": "17.058",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 1.647,
+    "entryLong": 1.668,
+    "entryShort": 1.637,
+    "stopLong": 1.643,
+    "targetLong": 2.117999999999998,
+    "stopShort": 1.668,
+    "targetShort": 1.0790000000000015,
+    "riskPctLong": 1.4988009592326086,
+    "riskPctShort": 1.893708002443489,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T07:10:55.240Z"
+  },
+  {
+    "symbol": "BTWUSDT",
+    "direction_hint": "шорт",
     "volume24h": 1122784906.07134,
     "change24h": "-41.171",
     "triggers": [
@@ -563,45 +604,5 @@
     "riskPctShort": 2.0029311187103085,
     "lowHistory": false,
     "timestamp": "2026-08-20T05:50:48.289Z"
-  },
-  {
-    "symbol": "BTWUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 1141301007.32841,
-    "change24h": "-27.455",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 0.39273,
-    "entryLong": 0.44296,
-    "entryShort": 0.38834,
-    "stopLong": 0.42967120000000003,
-    "targetLong": 0.6821584,
-    "stopShort": 0.3999902,
-    "targetShort": 0.1786364,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T05:50:51.033Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 22615103936.92,
-    "change24h": "17.683",
-    "triggers": [
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2249.73,
-    "entryLong": 2257.67,
-    "entryShort": 2247.56,
-    "stopLong": 2249.42,
-    "targetLong": 2406.17,
-    "stopShort": 2255.93,
-    "targetShort": 2096.900000000002,
-    "riskPctLong": 0.3654209871238932,
-    "riskPctShort": 0.3724038512876137,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T05:45:40.523Z"
   }
 ]
