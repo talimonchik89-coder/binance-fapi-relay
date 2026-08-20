@@ -1,5 +1,46 @@
 [
   {
+    "symbol": "KORUUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 1237355464.3097,
+    "change24h": "3.868",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 20.14,
+    "entryLong": 20.82,
+    "entryShort": 20.07,
+    "stopLong": 20.1954,
+    "targetLong": 32.0628,
+    "stopShort": 20.4,
+    "targetShort": 14.130000000000033,
+    "riskPctLong": 3,
+    "riskPctShort": 1.6442451420029809,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T11:30:50.853Z"
+  },
+  {
+    "symbol": "BTWUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 899292329.16385,
+    "change24h": "-38.424",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.38997,
+    "entryLong": 0.41063,
+    "entryShort": 0.36605,
+    "stopLong": 0.3983111,
+    "targetLong": 0.6323702,
+    "stopShort": 0.3770315,
+    "targetShort": 0.16838299999999998,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T11:30:52.805Z"
+  },
+  {
     "symbol": "HYPEUSDT",
     "direction_hint": "шорт",
     "volume24h": 2454121758.07424,
@@ -569,45 +610,5 @@
     "riskPctShort": 1.893708002443489,
     "lowHistory": false,
     "timestamp": "2026-08-20T06:50:57.112Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 23066828703.99,
-    "change24h": "18.453",
-    "triggers": [
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2263.95,
-    "entryLong": 2264.37,
-    "entryShort": 2238.23,
-    "stopLong": 2248.25,
-    "targetLong": 2554.529999999998,
-    "stopShort": 2264.37,
-    "targetShort": 1767.7100000000023,
-    "riskPctLong": 0.7118977905554256,
-    "riskPctShort": 1.167887125094377,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T06:45:40.305Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 23008545968.8,
-    "change24h": "18.152",
-    "triggers": [
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2257.88,
-    "entryLong": 2262.41,
-    "entryShort": 2238.23,
-    "stopLong": 2243.84,
-    "targetLong": 2596.6699999999946,
-    "stopShort": 2262.41,
-    "targetShort": 1802.990000000003,
-    "riskPctLong": 0.820806131514611,
-    "riskPctShort": 1.0803179297927308,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T06:40:40.791Z"
   }
 ]
