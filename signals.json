@@ -2,6 +2,46 @@
   {
     "symbol": "ETHUSDT",
     "direction_hint": "лонг",
+    "volume24h": 23008545968.8,
+    "change24h": "18.152",
+    "triggers": [
+      "перевёрнутая голова и плечи"
+    ],
+    "currentPrice": 2257.88,
+    "entryLong": 2262.41,
+    "entryShort": 2238.23,
+    "stopLong": 2243.84,
+    "targetLong": 2596.6699999999946,
+    "stopShort": 2262.41,
+    "targetShort": 1802.990000000003,
+    "riskPctLong": 0.820806131514611,
+    "riskPctShort": 1.0803179297927308,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T06:40:40.791Z"
+  },
+  {
+    "symbol": "BTWUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 1127536804.0601,
+    "change24h": "-38.220",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 0.36174,
+    "entryLong": 0.42548,
+    "entryShort": 0.35487,
+    "stopLong": 0.4127156,
+    "targetLong": 0.6552392,
+    "stopShort": 0.3655161,
+    "targetShort": 0.1632402,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T06:40:51.235Z"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "direction_hint": "лонг",
     "volume24h": 22891605360.89,
     "change24h": "18.119",
     "triggers": [
@@ -565,46 +605,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-20T05:40:50.700Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 22595478786.98,
-    "change24h": "17.800",
-    "triggers": [
-      "сжатие волатильности",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2252.31,
-    "entryLong": 2259,
-    "entryShort": 2247.56,
-    "stopLong": 2249.13,
-    "targetLong": 2436.6599999999976,
-    "stopShort": 2256.48,
-    "targetShort": 2086.9999999999986,
-    "riskPctLong": 0.43691899070384643,
-    "riskPctShort": 0.3968748331523996,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T05:35:40.413Z"
-  },
-  {
-    "symbol": "SKHYNIXUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 3348375757.1989,
-    "change24h": "11.851",
-    "triggers": [
-      "двойное дно"
-    ],
-    "currentPrice": 1211.17,
-    "entryLong": 1233.3,
-    "entryShort": 1200.7,
-    "stopLong": 1203.9,
-    "targetLong": 1762.4999999999975,
-    "stopShort": 1214.06,
-    "targetShort": 960.220000000002,
-    "riskPctLong": 2.38384821211383,
-    "riskPctShort": 1.1126842675106103,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T05:35:42.509Z"
   }
 ]
