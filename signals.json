@@ -1,5 +1,46 @@
 [
   {
+    "symbol": "HYPEUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 2442461556.22731,
+    "change24h": "22.336",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 71.826,
+    "entryLong": 73.826,
+    "entryShort": 71.736,
+    "stopLong": 71.736,
+    "targetLong": 111.4459999999998,
+    "stopShort": 72.757,
+    "targetShort": 53.358,
+    "riskPctLong": 2.8309809552190144,
+    "riskPctShort": 1.4232742277238775,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T11:10:44.841Z"
+  },
+  {
+    "symbol": "BTWUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 916557255.27938,
+    "change24h": "-41.045",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.38258,
+    "entryLong": 0.41063,
+    "entryShort": 0.37403,
+    "stopLong": 0.3983111,
+    "targetLong": 0.6323702,
+    "stopShort": 0.3852509,
+    "targetShort": 0.17205379999999998,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T11:10:51.182Z"
+  },
+  {
     "symbol": "BTWUSDT",
     "direction_hint": "лонг",
     "volume24h": 937000151.69401,
@@ -566,45 +607,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-20T06:25:51.050Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 22746375833.43,
-    "change24h": "17.545",
-    "triggers": [
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2244.83,
-    "entryLong": 2256.76,
-    "entryShort": 2238.23,
-    "stopLong": 2238.23,
-    "targetLong": 2590.300000000004,
-    "stopShort": 2248.3,
-    "targetShort": 2056.969999999997,
-    "riskPctLong": 0.8210886403516634,
-    "riskPctShort": 0.4499090799426405,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T06:20:40.262Z"
-  },
-  {
-    "symbol": "BTWUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 1139353320.14692,
-    "change24h": "-35.412",
-    "triggers": [
-      "двойная вершина"
-    ],
-    "currentPrice": 0.36556,
-    "entryLong": 0.42548,
-    "entryShort": 0.3575,
-    "stopLong": 0.4127156,
-    "targetLong": 0.6552392,
-    "stopShort": 0.36822499999999997,
-    "targetShort": 0.16444999999999999,
-    "riskPctLong": 3,
-    "riskPctShort": 3,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T06:20:50.229Z"
   }
 ]
