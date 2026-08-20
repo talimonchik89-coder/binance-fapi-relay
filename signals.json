@@ -2,6 +2,46 @@
   {
     "symbol": "ETHUSDT",
     "direction_hint": "лонг",
+    "volume24h": 22735111692.83,
+    "change24h": "17.546",
+    "triggers": [
+      "перевёрнутая голова и плечи"
+    ],
+    "currentPrice": 2242.78,
+    "entryLong": 2256.76,
+    "entryShort": 2239.66,
+    "stopLong": 2239.66,
+    "targetLong": 2564.5600000000068,
+    "stopShort": 2251.17,
+    "targetShort": 2032.479999999996,
+    "riskPctLong": 0.7577234619543222,
+    "riskPctShort": 0.5139172910173964,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T06:05:40.121Z"
+  },
+  {
+    "symbol": "HYPEUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 1982904196.55863,
+    "change24h": "22.304",
+    "triggers": [
+      "двойная вершина"
+    ],
+    "currentPrice": 71.164,
+    "entryLong": 71.584,
+    "entryShort": 69.812,
+    "stopLong": 71.025,
+    "targetLong": 81.64599999999996,
+    "stopShort": 71.429,
+    "targetShort": 40.705999999999925,
+    "riskPctLong": 0.7809007599463532,
+    "riskPctShort": 2.3162207070417757,
+    "lowHistory": false,
+    "timestamp": "2026-08-20T06:05:44.522Z"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "direction_hint": "лонг",
     "volume24h": 22683999413.42,
     "change24h": "17.676",
     "triggers": [
@@ -573,47 +613,5 @@
     "riskPctShort": 1.269817045801388,
     "lowHistory": false,
     "timestamp": "2026-08-20T04:50:40.338Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 22452726901.21,
-    "change24h": "17.837",
-    "triggers": [
-      "треугольник",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2251.59,
-    "entryLong": 2259,
-    "entryShort": 2222,
-    "stopLong": 2247.56,
-    "targetLong": 2464.920000000001,
-    "stopShort": 2256.8,
-    "targetShort": 1595.5999999999967,
-    "riskPctLong": 0.5064187693669789,
-    "riskPctShort": 1.5661566156615743,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T04:45:40.217Z"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 22438890965.99,
-    "change24h": "17.711",
-    "triggers": [
-      "треугольник",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 2250.1,
-    "entryLong": 2259,
-    "entryShort": 2222,
-    "stopLong": 2247.56,
-    "targetLong": 2464.920000000001,
-    "stopShort": 2256.8,
-    "targetShort": 1595.5999999999967,
-    "riskPctLong": 0.5064187693669789,
-    "riskPctShort": 1.5661566156615743,
-    "lowHistory": false,
-    "timestamp": "2026-08-20T04:40:40.372Z"
   }
 ]
