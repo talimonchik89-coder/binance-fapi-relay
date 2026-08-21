@@ -2,6 +2,48 @@
   {
     "symbol": "BOMEUSDT",
     "direction_hint": "лонг",
+    "volume24h": 293781001.3408793,
+    "change24h": "0.732",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.0011827,
+    "entryLong": 0.0011864,
+    "entryShort": 0.0011504,
+    "stopLong": 0.001164,
+    "targetLong": 0.0012759999999999996,
+    "stopShort": 0.0011847,
+    "targetShort": 0.0010132000000000003,
+    "riskPctLong": 1.8880647336480019,
+    "riskPctShort": 2.9815716272600756,
+    "lowHistory": false,
+    "timestamp": "2026-08-21T20:16:12.485Z"
+  },
+  {
+    "symbol": "SOXSUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 249381768.7017,
+    "change24h": "1.268",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 47.13,
+    "entryLong": 47.38,
+    "entryShort": 46.8,
+    "stopLong": 46.95,
+    "targetLong": 49.099999999999994,
+    "stopShort": 47.31,
+    "targetShort": 44.75999999999998,
+    "riskPctLong": 0.9075559307724771,
+    "riskPctShort": 1.0897435897436007,
+    "lowHistory": false,
+    "timestamp": "2026-08-21T20:16:16.620Z"
+  },
+  {
+    "symbol": "BOMEUSDT",
+    "direction_hint": "лонг",
     "volume24h": 293981280.0920898,
     "change24h": "0.461",
     "triggers": [
@@ -582,47 +624,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-21T13:50:50.258Z"
-  },
-  {
-    "symbol": "BOMEUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 403950689.3576773,
-    "change24h": "2.717",
-    "triggers": [
-      "сжатие волатильности",
-      "двойное дно"
-    ],
-    "currentPrice": 0.0012968,
-    "entryLong": 0.0013084,
-    "entryShort": 0.0012707,
-    "stopLong": 0.0012722,
-    "targetLong": 0.001959999999999998,
-    "stopShort": 0.0013014,
-    "targetShort": 0.0007180999999999994,
-    "riskPctLong": 2.7667380006114266,
-    "riskPctShort": 2.4159911859604972,
-    "lowHistory": false,
-    "timestamp": "2026-08-21T13:50:51.211Z"
-  },
-  {
-    "symbol": "ADAUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 385744167.6551,
-    "change24h": "12.242",
-    "triggers": [
-      "сжатие волатильности",
-      "двойная вершина"
-    ],
-    "currentPrice": 0.2173,
-    "entryLong": 0.2175,
-    "entryShort": 0.2126,
-    "stopLong": 0.2126,
-    "targetLong": 0.3056999999999998,
-    "stopShort": 0.21750000000000003,
-    "targetShort": 0.12440000000000023,
-    "riskPctLong": 2.252873563218385,
-    "riskPctShort": 2.3047977422389407,
-    "lowHistory": false,
-    "timestamp": "2026-08-21T13:50:52.159Z"
   }
 ]
