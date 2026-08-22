@@ -2,6 +2,27 @@
   {
     "symbol": "HYPEUSDT",
     "direction_hint": "лонг",
+    "volume24h": 2008986939.6577,
+    "change24h": "8.625",
+    "triggers": [
+      "накопление OI",
+      "двойное дно"
+    ],
+    "currentPrice": 80.964,
+    "entryLong": 81.733,
+    "entryShort": 75.811,
+    "stopLong": 79.28101,
+    "targetLong": 91.54096000000001,
+    "stopShort": 78.08533000000001,
+    "targetShort": 66.71368000000001,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-22T02:55:59.478Z"
+  },
+  {
+    "symbol": "HYPEUSDT",
+    "direction_hint": "лонг",
     "volume24h": 1999235923.95193,
     "change24h": "8.779",
     "triggers": [
@@ -613,26 +634,5 @@
     "riskPctShort": 2.5245557885443044,
     "lowHistory": false,
     "timestamp": "2026-08-22T00:20:58.227Z"
-  },
-  {
-    "symbol": "ZECUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 2000642290.62,
-    "change24h": "29.783",
-    "triggers": [
-      "сжатие волатильности",
-      "двойная вершина"
-    ],
-    "currentPrice": 738.57,
-    "entryLong": 744.58,
-    "entryShort": 723.4,
-    "stopLong": 728.01,
-    "targetLong": 810.8600000000002,
-    "stopShort": 743.18,
-    "targetShort": 644.2800000000001,
-    "riskPctLong": 2.2254156705793937,
-    "riskPctShort": 2.734310201824713,
-    "lowHistory": false,
-    "timestamp": "2026-08-22T00:10:58.257Z"
   }
 ]
