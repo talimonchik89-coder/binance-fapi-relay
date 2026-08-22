@@ -1,5 +1,38 @@
 [
   {
+    "id": "HEMIUSDT_1787349375232",
+    "symbol": "HEMIUSDT",
+    "direction": "short",
+    "entry": 0.009984,
+    "stop": 0.01028352,
+    "target": 0.00878592,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-21T21:56:15.232Z",
+    "activatedAt": "2026-08-22T07:25:55.646Z",
+    "resolvedAt": "2026-08-22T12:05:37.498Z",
+    "status": "loss"
+  },
+  {
+    "id": "ZECUSDT_1787356858491",
+    "symbol": "ZECUSDT",
+    "direction": "short",
+    "entry": 717.79,
+    "stop": 736,
+    "target": 644.9499999999998,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "паттерн: Треугольник",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-22T00:00:58.491Z",
+    "activatedAt": null,
+    "resolvedAt": "2026-08-22T12:05:37.498Z",
+    "status": "expired_no_entry"
+  },
+  {
     "id": "ZECUSDT_1787356558500",
     "symbol": "ZECUSDT",
     "direction": "short",
