@@ -1,5 +1,53 @@
 [
   {
+    "id": "ONGUSDT_1787373370474",
+    "symbol": "ONGUSDT",
+    "direction": "long",
+    "entry": 0.08918,
+    "stop": 0.08713,
+    "target": 0.09737999999999998,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-22T04:36:10.474Z",
+    "activatedAt": null,
+    "resolvedAt": "2026-08-22T17:50:37.614Z",
+    "status": "expired_no_entry"
+  },
+  {
+    "id": "ONGUSDT_1787373668606",
+    "symbol": "ONGUSDT",
+    "direction": "long",
+    "entry": 0.08918,
+    "stop": 0.08713,
+    "target": 0.09737999999999998,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-22T04:41:08.606Z",
+    "activatedAt": null,
+    "resolvedAt": "2026-08-22T17:50:37.614Z",
+    "status": "expired_no_entry"
+  },
+  {
+    "id": "DOGEUSDT_1787407544392",
+    "symbol": "DOGEUSDT",
+    "direction": "short",
+    "entry": 0.09072,
+    "stop": 0.09178,
+    "target": 0.08647999999999997,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-22T14:05:44.392Z",
+    "activatedAt": "2026-08-22T14:25:37.483Z",
+    "resolvedAt": "2026-08-22T17:50:37.614Z",
+    "status": "loss"
+  },
+  {
     "id": "ZECUSDT_1787361958833",
     "symbol": "ZECUSDT",
     "direction": "short",
