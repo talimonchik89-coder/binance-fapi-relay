@@ -1,5 +1,26 @@
 [
   {
+    "symbol": "SNXXUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 421568831.1306,
+    "change24h": "-15.305",
+    "triggers": [
+      "сжатие волатильности",
+      "двойная вершина"
+    ],
+    "currentPrice": 12.23,
+    "entryLong": 12.36,
+    "entryShort": 12.07,
+    "stopLong": 12.21,
+    "targetLong": 12.959999999999994,
+    "stopShort": 12.33,
+    "targetShort": 11.030000000000001,
+    "riskPctLong": 1.2135922330096973,
+    "riskPctShort": 2.154101077050537,
+    "lowHistory": false,
+    "timestamp": "2026-08-28T09:45:20.648Z"
+  },
+  {
     "symbol": "TRUMPUSDT",
     "direction_hint": "шорт",
     "volume24h": 746503329.78081,
@@ -609,26 +630,5 @@
     "riskPctShort": 1.8000947418285163,
     "lowHistory": false,
     "timestamp": "2026-08-27T03:25:49.928Z"
-  },
-  {
-    "symbol": "FARTCOINUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 106683748.88633,
-    "change24h": "4.926",
-    "triggers": [
-      "сжатие волатильности",
-      "двойная вершина"
-    ],
-    "currentPrice": 0.213,
-    "entryLong": 0.2179,
-    "entryShort": 0.213,
-    "stopLong": 0.213,
-    "targetLong": 0.23750000000000007,
-    "stopShort": 0.2164,
-    "targetShort": 0.19939999999999994,
-    "riskPctLong": 2.2487379531895435,
-    "riskPctShort": 1.5962441314554057,
-    "lowHistory": false,
-    "timestamp": "2026-08-27T03:10:51.834Z"
   }
 ]
