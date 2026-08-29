@@ -1,5 +1,26 @@
 [
   {
+    "symbol": "DEXEUSDT",
+    "direction_hint": "шорт",
+    "volume24h": 169033935.48779,
+    "change24h": "26.817",
+    "triggers": [
+      "сжатие волатильности",
+      "двойная вершина"
+    ],
+    "currentPrice": 2.426,
+    "entryLong": 2.511,
+    "entryShort": 2.377,
+    "stopLong": 2.43567,
+    "targetLong": 2.8123200000000006,
+    "stopShort": 2.4483099999999998,
+    "targetShort": 2.09176,
+    "riskPctLong": 3,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-29T06:56:10.968Z"
+  },
+  {
     "symbol": "WLDUSDT",
     "direction_hint": "шорт",
     "volume24h": 181238007.3647,
@@ -612,26 +633,5 @@
     "riskPctShort": 3,
     "lowHistory": false,
     "timestamp": "2026-08-28T01:40:46.373Z"
-  },
-  {
-    "symbol": "BEAMXUSDT",
-    "direction_hint": "шорт",
-    "volume24h": 121902623.241726,
-    "change24h": "19.809",
-    "triggers": [
-      "сжатие волатильности",
-      "двойная вершина"
-    ],
-    "currentPrice": 0.001754,
-    "entryLong": 0.001795,
-    "entryShort": 0.001729,
-    "stopLong": 0.001743,
-    "targetLong": 0.002003,
-    "stopShort": 0.0017739999999999998,
-    "targetShort": 0.0015490000000000005,
-    "riskPctLong": 2.8969359331476303,
-    "riskPctShort": 2.6026604973973337,
-    "lowHistory": false,
-    "timestamp": "2026-08-28T01:40:51.978Z"
   }
 ]
