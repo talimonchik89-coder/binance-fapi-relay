@@ -1,14 +1,22 @@
 {
-  "totalResolved": 173,
+  "totalResolved": 177,
   "wins": 42,
-  "losses": 81,
+  "losses": 85,
   "expiredNoEntry": 42,
   "expiredTimeout": 8,
-  "winRate": 34.1,
+  "winRate": 33.1,
   "byTrigger": {
     "Двойное дно": {
       "wins": 25,
-      "losses": 38
+      "losses": 42
+    },
+    "Треугольник": {
+      "wins": 2,
+      "losses": 16
+    },
+    "Перевёрнутая голова и плечи": {
+      "wins": 5,
+      "losses": 7
     },
     "Двойная вершина": {
       "wins": 13,
@@ -17,15 +25,7 @@
     "Голова и плечи": {
       "wins": 5,
       "losses": 4
-    },
-    "Треугольник": {
-      "wins": 2,
-      "losses": 12
-    },
-    "Перевёрнутая голова и плечи": {
-      "wins": 5,
-      "losses": 3
     }
   },
-  "lastUpdated": "2026-08-29T16:06:17.168Z"
+  "lastUpdated": "2026-08-29T19:06:17.675Z"
 }
