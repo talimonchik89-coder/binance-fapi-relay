@@ -1,5 +1,53 @@
 [
   {
+    "id": "PUMPUSDT_1788012970409",
+    "symbol": "PUMPUSDT",
+    "direction": "short",
+    "entry": 0.004616,
+    "stop": 0.004653,
+    "target": 0.0044680000000000015,
+    "triggers": [
+      "паттерн: Голова и плечи",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-29T14:16:10.409Z",
+    "activatedAt": null,
+    "resolvedAt": "2026-08-30T02:41:03.026Z",
+    "status": "expired_no_entry"
+  },
+  {
+    "id": "ONGUSDT_1788033970483",
+    "symbol": "ONGUSDT",
+    "direction": "long",
+    "entry": 0.12164,
+    "stop": 0.11948,
+    "target": 0.13027999999999998,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-29T20:06:10.483Z",
+    "activatedAt": "2026-08-29T22:31:05.503Z",
+    "resolvedAt": "2026-08-30T02:41:03.026Z",
+    "status": "loss"
+  },
+  {
+    "id": "ONGUSDT_1788034270328",
+    "symbol": "ONGUSDT",
+    "direction": "long",
+    "entry": 0.12164,
+    "stop": 0.11948,
+    "target": 0.13027999999999998,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-08-29T20:11:10.328Z",
+    "activatedAt": "2026-08-29T22:31:05.503Z",
+    "resolvedAt": "2026-08-30T02:41:03.026Z",
+    "status": "loss"
+  },
+  {
     "id": "4USDT_1788026167949",
     "symbol": "4USDT",
     "direction": "long",
