@@ -1,5 +1,26 @@
 [
   {
+    "symbol": "龙虾USDT",
+    "direction_hint": "лонг",
+    "volume24h": 211389550.962525,
+    "change24h": "2.666",
+    "triggers": [
+      "сжатие волатильности",
+      "двойное дно"
+    ],
+    "currentPrice": 0.073004,
+    "entryLong": 0.073499,
+    "entryShort": 0.071036,
+    "stopLong": 0.0714,
+    "targetLong": 0.08189499999999995,
+    "stopShort": 0.07316708000000001,
+    "targetShort": 0.06251168,
+    "riskPctLong": 2.8558211676349203,
+    "riskPctShort": 3,
+    "lowHistory": false,
+    "timestamp": "2026-08-30T11:21:06.762Z"
+  },
+  {
     "symbol": "PROMUSDT",
     "direction_hint": "шорт",
     "volume24h": 500511516.9256,
@@ -622,26 +643,5 @@
     "riskPctShort": 2.857142857142867,
     "lowHistory": false,
     "timestamp": "2026-08-28T17:31:14.658Z"
-  },
-  {
-    "symbol": "SNXXUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 368517589.14,
-    "change24h": "0.234",
-    "triggers": [
-      "сжатие волатильности",
-      "двойное дно"
-    ],
-    "currentPrice": 12.84,
-    "entryLong": 12.96,
-    "entryShort": 12.6,
-    "stopLong": 12.68,
-    "targetLong": 14.080000000000005,
-    "stopShort": 12.96,
-    "targetShort": 11.159999999999995,
-    "riskPctLong": 2.1604938271605025,
-    "riskPctShort": 2.857142857142867,
-    "lowHistory": false,
-    "timestamp": "2026-08-28T17:26:09.771Z"
   }
 ]
