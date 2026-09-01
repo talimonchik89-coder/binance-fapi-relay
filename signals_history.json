@@ -1,5 +1,39 @@
 [
   {
+    "id": "PUMPUSDT_1788238273636",
+    "symbol": "PUMPUSDT",
+    "direction": "short",
+    "entry": 0.004487,
+    "stop": 0.004545,
+    "target": 0.004254999999999997,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "паттерн: Треугольник",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-09-01T04:51:13.636Z",
+    "activatedAt": "2026-09-01T08:46:02.680Z",
+    "resolvedAt": "2026-09-01T18:16:04.251Z",
+    "status": "win"
+  },
+  {
+    "id": "PUMPUSDT_1788242474760",
+    "symbol": "PUMPUSDT",
+    "direction": "short",
+    "entry": 0.004484,
+    "stop": 0.004543,
+    "target": 0.004248,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "паттерн: Треугольник",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-09-01T06:01:14.760Z",
+    "activatedAt": "2026-09-01T08:46:02.680Z",
+    "resolvedAt": "2026-09-01T18:16:04.251Z",
+    "status": "win"
+  },
+  {
     "id": "ARBUSDT_1788234068355",
     "symbol": "ARBUSDT",
     "direction": "long",
