@@ -1,5 +1,53 @@
 [
   {
+    "id": "PUMPUSDT_1788238871136",
+    "symbol": "PUMPUSDT",
+    "direction": "short",
+    "entry": 0.004484,
+    "stop": 0.004544,
+    "target": 0.0042439999999999995,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-09-01T05:01:11.136Z",
+    "activatedAt": "2026-09-01T08:46:02.680Z",
+    "resolvedAt": "2026-09-01T18:46:01.731Z",
+    "status": "win"
+  },
+  {
+    "id": "SNXXUSDT_1788273668700",
+    "symbol": "SNXXUSDT",
+    "direction": "long",
+    "entry": 14.09,
+    "stop": 13.6673,
+    "target": 15.780800000000001,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "накопление OI"
+    ],
+    "createdAt": "2026-09-01T14:41:08.700Z",
+    "activatedAt": "2026-09-01T14:51:02.760Z",
+    "resolvedAt": "2026-09-01T18:46:01.731Z",
+    "status": "loss"
+  },
+  {
+    "id": "SNXXUSDT_1788273969401",
+    "symbol": "SNXXUSDT",
+    "direction": "long",
+    "entry": 14.09,
+    "stop": 13.6673,
+    "target": 15.780800000000001,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "накопление OI"
+    ],
+    "createdAt": "2026-09-01T14:46:09.401Z",
+    "activatedAt": "2026-09-01T14:51:02.760Z",
+    "resolvedAt": "2026-09-01T18:46:01.731Z",
+    "status": "loss"
+  },
+  {
     "id": "UNIUSDT_1788283269669",
     "symbol": "UNIUSDT",
     "direction": "long",
