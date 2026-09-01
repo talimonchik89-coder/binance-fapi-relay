@@ -2,6 +2,48 @@
   {
     "symbol": "SOXLUSDT",
     "direction_hint": "шорт",
+    "volume24h": 900656915.257,
+    "change24h": "-6.839",
+    "triggers": [
+      "сжатие волатильности",
+      "голова и плечи"
+    ],
+    "currentPrice": 104.08,
+    "entryLong": 105.6,
+    "entryShort": 102.86,
+    "stopLong": 102.86,
+    "targetLong": 116.55999999999997,
+    "stopShort": 104.18,
+    "targetShort": 97.57999999999997,
+    "riskPctLong": 2.594696969696965,
+    "riskPctShort": 1.2832976861753913,
+    "lowHistory": false,
+    "timestamp": "2026-09-01T18:56:04.305Z"
+  },
+  {
+    "symbol": "SOXSUSDT",
+    "direction_hint": "лонг",
+    "volume24h": 160674604.0337,
+    "change24h": "6.643",
+    "triggers": [
+      "сжатие волатильности",
+      "перевёрнутая голова и плечи"
+    ],
+    "currentPrice": 52.98,
+    "entryLong": 53.52,
+    "entryShort": 52.31,
+    "stopLong": 52.94,
+    "targetLong": 55.84000000000003,
+    "stopShort": 53.52,
+    "targetShort": 47.47,
+    "riskPctLong": 1.0837070254110712,
+    "riskPctShort": 2.3131332441215844,
+    "lowHistory": false,
+    "timestamp": "2026-09-01T18:56:15.231Z"
+  },
+  {
+    "symbol": "SOXLUSDT",
+    "direction_hint": "шорт",
     "volume24h": 886839383.3009,
     "change24h": "-6.819",
     "triggers": [
@@ -595,49 +637,5 @@
     "riskPctShort": 2.0799567801188545,
     "lowHistory": false,
     "timestamp": "2026-08-31T18:21:08.072Z"
-  },
-  {
-    "symbol": "NILUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 122815830.812928,
-    "change24h": "7.552",
-    "triggers": [
-      "сжатие волатильности",
-      "двойное дно",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 0.05654,
-    "entryLong": 0.05693,
-    "entryShort": 0.05551,
-    "stopLong": 0.05607,
-    "targetLong": 0.06036999999999999,
-    "stopShort": 0.056839999999999995,
-    "targetShort": 0.05018999999999998,
-    "riskPctLong": 1.5106270858949582,
-    "riskPctShort": 2.395964691046667,
-    "lowHistory": false,
-    "timestamp": "2026-08-30T12:51:10.776Z"
-  },
-  {
-    "symbol": "NILUSDT",
-    "direction_hint": "лонг",
-    "volume24h": 123219479.382621,
-    "change24h": "7.184",
-    "triggers": [
-      "сжатие волатильности",
-      "двойное дно",
-      "перевёрнутая голова и плечи"
-    ],
-    "currentPrice": 0.0564,
-    "entryLong": 0.05693,
-    "entryShort": 0.05533,
-    "stopLong": 0.05607,
-    "targetLong": 0.06036999999999999,
-    "stopShort": 0.05682,
-    "targetShort": 0.049369999999999976,
-    "riskPctLong": 1.5106270858949582,
-    "riskPctShort": 2.6929333092355057,
-    "lowHistory": false,
-    "timestamp": "2026-08-30T12:46:10.903Z"
   }
 ]
