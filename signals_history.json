@@ -1,5 +1,22 @@
 [
   {
+    "id": "SYNUSDT_1789610731685",
+    "symbol": "SYNUSDT",
+    "direction": "short",
+    "entry": 0.1607,
+    "stop": 0.165521,
+    "target": 0.14141600000000001,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "паттерн: Треугольник",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-09-17T02:05:31.685Z",
+    "activatedAt": null,
+    "resolvedAt": "2026-09-18T02:20:26.198Z",
+    "status": "expired_no_entry"
+  },
+  {
     "id": "POWERUSDT_1789492835051",
     "symbol": "POWERUSDT",
     "direction": "long",
