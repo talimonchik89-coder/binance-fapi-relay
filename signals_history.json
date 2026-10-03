@@ -1,5 +1,21 @@
 [
   {
+    "id": "ENAUSDT_1790880066452",
+    "symbol": "ENAUSDT",
+    "direction": "short",
+    "entry": 0.24565,
+    "stop": 0.25112,
+    "target": 0.22377,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-10-01T18:41:06.452Z",
+    "activatedAt": "2026-10-01T19:45:56.436Z",
+    "resolvedAt": "2026-10-03T19:50:59.553Z",
+    "status": "expired_timeout"
+  },
+  {
     "id": "SOXLUSDT_1790915148427",
     "symbol": "SOXLUSDT",
     "direction": "long",
