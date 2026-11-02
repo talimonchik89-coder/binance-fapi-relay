@@ -1,5 +1,38 @@
 [
   {
+    "id": "QUSDT_1793495154622",
+    "symbol": "QUSDT",
+    "direction": "short",
+    "entry": 0.03057,
+    "stop": 0.03128,
+    "target": 0.027729999999999994,
+    "triggers": [
+      "паттерн: Двойная вершина",
+      "паттерн: Голова и плечи",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-11-01T01:05:54.622Z",
+    "activatedAt": "2026-11-01T15:20:48.969Z",
+    "resolvedAt": "2026-11-02T12:10:40.029Z",
+    "status": "win"
+  },
+  {
+    "id": "BEAMXUSDT_1793577942278",
+    "symbol": "BEAMXUSDT",
+    "direction": "long",
+    "entry": 0.005712,
+    "stop": 0.00554064,
+    "target": 0.006397440000000001,
+    "triggers": [
+      "паттерн: Двойное дно",
+      "сжатие волатильности"
+    ],
+    "createdAt": "2026-11-02T00:05:42.278Z",
+    "activatedAt": null,
+    "resolvedAt": "2026-11-02T12:10:40.029Z",
+    "status": "expired_no_entry"
+  },
+  {
     "id": "AIOTUSDT_1793497557114",
     "symbol": "AIOTUSDT",
     "direction": "short",
